@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">計画停電時間割</string>
+    <string name="title_housting_name_list">登録中の物件</string>
+    <string name="kyuden_home_page">九州電力HPはこちら</string>
+    <string name="button_name_calendar">本日の時間割</string>
+
+    <string name="text_view_time_zone1_text">8:30～11:00</string>
+    <string name="text_view_time_zone2_text">10:30～13:00</string>
+    <string name="text_view_time_zone3_text">12:30～15:00</string>
+    <string name="text_view_time_zone4_text">14:30～17:00</string>
+    <string name="text_view_time_zone5_text">16:30～19:00</string>
+    <string name="text_view_time_zone6_text">18:30～21:00</string>
+
+</resources>
